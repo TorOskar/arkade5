@@ -143,6 +143,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Images\" />
+    <Folder Include="MVVM_Model\" />
+    <Folder Include="MVVM_ViewModel\" />
+    <Folder Include="MVVM_View\" />
     <Folder Include="Resources\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
